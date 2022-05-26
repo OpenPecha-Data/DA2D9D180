@@ -1,10 +1,22 @@
-id: PC75D9483
+id: DA2D9D180
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
+imported: '2022-01-07T13:49:25+00:00'
+last_modified: '2022-05-26T11:36:38.857948+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  volumes:
-    8aeeb57abd98403fa5ecce54e0907a24:
-      base_file: v027.txt
+  base:
+    ee5f:
       image_group_id: I1PD95872
       title: དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ།
       total_pages: 1953
-      volume_number: 27
+      order: 27
+      base_file: ee5f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
